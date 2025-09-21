@@ -1,0 +1,39 @@
+INSERT INTO categories (code, value, subtitle, createdAt, updatedAt) 
+VALUES 
+(
+  "CTNO",
+  "Cho thuê nhà ở",
+  "Cho thuê nhà nguyên căn - Kênh đăng tin cho thuê nhà số 1: giá rẻ, chính chủ, miền trung gian, đầy đủ tiện nghi, mức giá, diện tích cho thuê khác nhau.",
+  current_timestamp,
+  current_timestamp
+);
+
+INSERT INTO categories (code, value, subtitle, createdAt, updatedAt) 
+VALUES 
+(
+  "CHCU",
+  "Căn hộ chung cư",
+  "Cho thuê căn hộ - Kênh đăng tin cho thuê căn hộ số 1: giá rẻ, chính chủ, đầy đủ tiện nghi. Cho thuê chung cư với nhiều mức giá, diện tích cho thuê khác nhau.",
+  current_timestamp,
+  current_timestamp
+);
+
+INSERT INTO categories (code, value, subtitle, createdAt, updatedAt) 
+VALUES 
+(
+  "CHMN",
+  "Căn hộ mini",
+  "Cho thuê căn hộ - Kênh đăng tin cho thuê căn hộ số 1: giá rẻ, chính chủ, đầy đủ tiện nghi. Cho thuê chung cư với nhiều mức giá, diện tích cho thuê khác nhau.",
+  current_timestamp,
+  current_timestamp
+);
+
+INSERT INTO categories (code, value, subtitle, createdAt, updatedAt) 
+VALUES 
+(
+  "CHDV",
+  "Căn hộ dịch vụ",
+  "Cho thuê căn hộ - Kênh đăng tin cho thuê căn hộ số 1: giá rẻ, chính chủ, đầy đủ tiện nghi. Cho thuê chung cư với nhiều mức giá, diện tích cho thuê khác nhau.",
+  current_timestamp,
+  current_timestamp
+);
